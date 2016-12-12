@@ -3,7 +3,7 @@ file = open('mylist.txt', 'w')
 
 # add items to file
 for n in range(10):
-    file.write(str(n+1) + ". " + input("What should I add to the list? ") + '\n')
+    file.write(str(n+1) + ". " + input("What's your #" + str(n+1) + " favorite fruit? ") + '\n')
 
 # close file
 file.close()

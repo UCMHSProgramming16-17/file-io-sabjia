@@ -1,10 +1,10 @@
-1. a
-2. b
-3. c
-4. d
-5. e
-6. 
-7. f
-8. g
-9. h
-10. i
+1. apple
+2. banana
+3. cherry
+4. dragonfruit
+5. egg
+6. fish
+7. grass
+8. indigo
+9. jack o' lantern
+10. kangaroo
